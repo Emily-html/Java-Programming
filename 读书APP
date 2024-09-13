@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head><meta charset="utf-8"/>
+    <title>读书APP</title>
+    <img src="https://p2.ssl.qhimgs1.com/sdr/400__/t0185fa969971fbd378.png" width="100">
+    <h1 style="color: red ;font-family: 'Courier New', Courier, monospace ;" align="center">读书好，读好书，好读书</h1>
+    <h2 style="color: red;font-family: 'Courier New', Courier, monospace;">Read More Books</h2>
+</head>
+<body>
+    <p><b>分类Classify:</b></p>
+    <hr color="pink" size="10" width="150" align="left"/>    <hr color="orange" size="10" width="150"/>
+    <hr color="purple" size="10" width="150" align="right"/>   
+<p style="background-color: aquamarine; font-size: medium;font-family: Verdana, Geneva, Tahoma, sans-serif; " align="center">时代地域</p>
+<p style="background-color: yellow; font-size: medium;font-family: Verdana, Geneva, Tahoma, sans-serif;"align="center">篇章字数</p>
+<p style="background-color: aquamarine; font-size: medium;font-family: Verdana, Geneva, Tahoma, sans-serif;"align="center">名人名著</p>
+<p style="background-color: yellow; font-size: medium;font-family: Verdana, Geneva, Tahoma, sans-serif;"align="center">网络小说</p>
+<p style="background-color: aquamarine; font-size: medium;font-family: Verdana, Geneva, Tahoma, sans-serif;"align="center">语言文学</p>
+<hr size="5" width="1000"/>
+<p><b>专栏推荐Reconmendations:</b></p>
+<p style="background-color: bisque;">
+<img src="https://ps.ssl.qhimg.com/sdmt/232_266_100/t014ac87a80a738b68d.webp" width="100px">
+<b>《Little Prince》小王子</b>是法国作家安托万·德·圣·埃克苏佩里于<br/>
+1942年写成的著名儿童文学短篇小说。本书的主人公是来自外星球的小王子。<br/>
+书中以一位飞行员作为故事叙述者，讲述了小王子从自己星球出发前往地球<br/>
+的过程中，所经历的各...
+<b>推荐指数：</b>
+<img src="https://p5.ssl.qhimgs1.com/sdr/400__/t0127740fb3250b36af.jpg" width="40">
+<img src="https://p5.ssl.qhimgs1.com/sdr/400__/t0127740fb3250b36af.jpg" width="40">
+<img src="https://p5.ssl.qhimgs1.com/sdr/400__/t0127740fb3250b36af.jpg" width="40">
+
+</p>
+<p style="background-color: chartreuse;">
+    <img src="https://pic.arkread.com/cover/ebook/f/42452616.1653704022.jpg!cover_default.jpg" width="80px">
+    <b>《海子的诗》</b>海子的诗是一部由当代青年诗人海子编写的诗作<br/>
+    集,于1999年4月首次出版，是其代表作之一。书中收录了海子自创作以来<br/>
+    所有短诗精华作品，以及长诗《弥赛亚》节选。其诗展现了海子独特的浪漫<br/>
+    精神，情感激烈，一泻如注。从这...
+    <b>推荐指数：<b/><img src="https://p5.ssl.qhimgs1.com/sdr/400__/t0127740fb3250b36af.jpg" width="40">
+        <img src="https://p5.ssl.qhimgs1.com/sdr/400__/t0127740fb3250b36af.jpg" width="40">
+        <img src="https://p5.ssl.qhimgs1.com/sdr/400__/t0127740fb3250b36af.jpg" width="40">
+    </p>
+    <hr size="5" width="1000"/>
+    <p style="font-size: small;">公司名：Web Design/
+        邮箱：19195060852@sina.cn/
+        联系方式：190-7952-6028
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+</html>
