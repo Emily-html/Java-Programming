@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Guess {
+    public static void main(String[] args) {
+        int answer = (int) (Math.random() * 101);
+        System.out.println("Guess a magic number between 0 and 100: ");
+        int guess;
+        int count = 1;
+        Scanner in = new Scanner(System.in);
+        guess = in.nextInt();
+        do {
+            if (guess < answer) {
+
+                System.out.println("Your guess is too low");
+            } else {
+                System.out.println("Your guess is too high");
+            }
+
+            count++;
+            guess = in.nextInt();
+        } while (guess != answer);
+        System.out.println("The guess times is " + count + ", and " + answer + " is right.");
+        in.close();
+    }
+}
